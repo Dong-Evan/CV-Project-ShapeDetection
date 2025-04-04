@@ -1,0 +1,6 @@
+path: C:/Users/endle/.Uni/Computer_Vision/project_shapes/CV-Project-ShapeDetection/shape_dataset
+train: images/train
+val: images/val
+# test: images/test
+nc: 3
+names: ['circle', 'square', 'triangle']
