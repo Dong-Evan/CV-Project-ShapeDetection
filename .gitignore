@@ -1,3 +1,7 @@
-runs/
+# runs/
+yolo_shapes/
+yolo_shapes2/
 *.pt
+test/
 shape_dataset/
+shape_dataset2/
