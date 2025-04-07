@@ -1,6 +1,6 @@
 runs/
 *.pt
 test/
-# shape_dataset/
+shape_dataset/
 shape_dataset2/
 test_images/
